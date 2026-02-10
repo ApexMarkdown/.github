@@ -1,12 +1,10 @@
 # Welcome to ApexMarkdown 👋
 
-## About Us
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-ApexMarkdown is dedicated to creating and maintaining high-quality Markdown tools and resources.
+Apex strives to combine syntax from CommonMark, CommonMark-GFM, Kramdown, Pandoc, MultiMarkdown, and more. One processor to rule them all.
 
-## Our Mission
-
-We strive to enhance the Markdown experience for developers, writers, and content creators through innovative tools and collaborative projects.
+In addition to the processor itself, there are [plugins](https://github.com/ApexMarkdown/apex-plugins) and [filters](https://github.com/ApexMarkdown/apex-filters) available.
 
 ## Get Involved
 
@@ -14,11 +12,4 @@ We welcome contributions from the community! Feel free to explore our repositori
 
 ---
 
-📝 Built with ❤️ by the ApexMarkdown team
-# Apex Markdown
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Apex is a Markdown processor that combines syntax from CommonMark, CommonMark-GFM, Kramdown, Pandoc, MultiMarkdown, and more.
-
-In addition to the Kramdown processor itself, there are [plugins](https://github.com/ApexMarkdown/apex-plugins) and [filters](https://github.com/ApexMarkdown/apex-filters) available.
+📝 Built with ❤️ by [Brett Terpstra](https://brettterpstra.com)
